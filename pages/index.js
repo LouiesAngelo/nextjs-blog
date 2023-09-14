@@ -9,6 +9,7 @@ export default function Home() {
         <title>{siteTitle}</title>
       </Head>
       <section className={utilStyles.headingMd}>
+<h1>10 Things That Require Zero Talent</h1>
     <ul>
   <li>1. Being On Time</li>
   <li>2. Making An Effort</li>
@@ -25,10 +26,10 @@ export default function Home() {
 </p>
         <p>I am a socially inclined person wherein I enjoy interpersonal interaction. From that, I may have the capacity to be flexible and adaptable as with my leadership qualities with natural collaborative attributes. I have the ability to write, technical or creative, as I am a journalist since back then and a student leader who deals with letters, as well as I write poems, stories, and songs. Talking about songs,  I appreciate music as well and I am capable to play instruments such as guitar, piano, ukulele, and some basically. Probably, I got to mention that I do graphic designs, including publication layouts and logo making.</p>
         <p>In my lifestyle, I am a spontaneous person. I like exploring, capturing moments, coffee shop hopping, and socializing with a bunch of people. In sum, in spite of my commitments, I also make space for personal stuff to live my life in harmony. All things matter, and for me everything is favorable.</p>
-        <p>
+        <p> */
           (This is a sample website - you’ll be building a site like this on{' '}
           <a href="https://nextjs.org/learn">our Next.js tutorial</a>.)
-        </p> */
+        </p> 
       </section>
     </Layout>
   );

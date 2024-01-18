@@ -15,9 +15,9 @@ export default function Home() {
         
         <p>Subject Expectations:</p>
         <ul>
-          <li>&#8226; Enlightening and precise course discussions.</li>
-          <li>&#8226; With essential hands on with collaborative activities.</li>
-          <li>&#8226; A laboratory based course with genuine interaction.</li>
+          <li>Enlightening and precise course discussions.</li>
+          <li>With essential hands-on with collaborative activities.</li>
+          <li>A laboratory-based course with genuine interaction.</li>
         </ul>
 
         <p>10 Things That Require ZeroTalent</p>
